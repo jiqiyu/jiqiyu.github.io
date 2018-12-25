@@ -5,5 +5,6 @@ layout: default
 <h2>TAGS</h2>
 
 {% for tag in site.tags %}
-"{{ tag | first }}"{% unless forloop.last %},{% endunless %}
+{% capture tag_name %}{{ tag }}{% endcapture %}
+<a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>{% unless forloop.last %},{% endunless %}
 {% endfor %}
