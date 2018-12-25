@@ -8,7 +8,7 @@ slug: '%e8%87%aa%e5%8a%a8%e6%9b%b4%e6%96%b0hosts%ef%bc%8c%e9%98%b2ip%e8%a2%ab%e5
 title: 自动更新hosts，防ip被屏蔽
 wordpress_id: 1200
 categories:
-- For Fun and Pleasure
+- 杂
 tags:
 - gfw
 - hosts

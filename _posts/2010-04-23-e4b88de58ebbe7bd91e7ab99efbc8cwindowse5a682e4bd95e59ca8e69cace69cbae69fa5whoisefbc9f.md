@@ -8,7 +8,7 @@ slug: '%e4%b8%8d%e5%8e%bb%e7%bd%91%e7%ab%99%ef%bc%8cwindows%e5%a6%82%e4%bd%95%e5
 title: 不去网站，windows如何在本机查whois？
 wordpress_id: 331
 categories:
-- Digital Life
+- 杂
 tags:
 - 沒有標籤
 ---

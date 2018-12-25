@@ -8,7 +8,7 @@ slug: a-rough-sketch
 title: A Rough Sketch
 wordpress_id: 454
 categories:
-- 手绘
+- 杂
 tags:
 - 迎客松
 ---

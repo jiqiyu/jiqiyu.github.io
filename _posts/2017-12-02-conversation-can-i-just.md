@@ -8,7 +8,7 @@ slug: conversation-can-i-just
 title: 'CONVERSATION: Can I just'
 wordpress_id: 1940
 categories:
-- 四不像或詩/ 歌
+- 四不像或詩歌
 tags:
 - fall
 - free

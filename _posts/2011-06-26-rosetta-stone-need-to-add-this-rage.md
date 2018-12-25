@@ -8,7 +8,7 @@ slug: rosetta-stone-need-to-add-this-rage
 title: rosetta stone need to add this rage
 wordpress_id: 853
 categories:
-- For Fun and Pleasure
+- 杂
 tags:
 - RageComics
 ---

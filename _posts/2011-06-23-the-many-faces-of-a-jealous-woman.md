@@ -8,7 +8,7 @@ slug: the-many-faces-of-a-jealous-woman
 title: The many faces of a jealous woman
 wordpress_id: 849
 categories:
-- For Fun and Pleasure
+- 杂
 tags:
 - RageComics
 ---

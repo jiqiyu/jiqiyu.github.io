@@ -8,7 +8,7 @@ slug: cygwin%e8%a3%85mysql
 title: Cygwin装Mysql
 wordpress_id: 1098
 categories:
-- Digital Life
+- 杂
 tags:
 - cygwin
 - mysql

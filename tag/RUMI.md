@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: RUMI"
-tag: RUMI
+title: "Tag: rumi"
+tag: rumi
 robots: noindex
 ---

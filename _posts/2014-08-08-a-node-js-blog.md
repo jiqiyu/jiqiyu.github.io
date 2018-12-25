@@ -8,7 +8,7 @@ slug: a-node-js-blog
 title: A node.js blog
 wordpress_id: 1502
 categories:
-- Digital Life
+- 杂
 tags:
 - 沒有標籤
 ---

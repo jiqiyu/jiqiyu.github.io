@@ -8,7 +8,7 @@ slug: zero-bug-tee
 title: Zero bug tee
 wordpress_id: 921
 categories:
-- 手绘
+- 杂
 tags:
 - tee
 - 生日

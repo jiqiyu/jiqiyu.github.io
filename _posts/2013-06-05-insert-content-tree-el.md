@@ -8,7 +8,7 @@ slug: insert-content-tree-el
 title: insert-content-tree.el
 wordpress_id: 1273
 categories:
-- For Fun and Pleasure
+- 杂
 tags:
 - elisp
 - emacs

@@ -8,7 +8,7 @@ slug: centos-security
 title: CentOS Security
 wordpress_id: 583
 categories:
-- Digital Life
+- 杂
 tags:
 - server
 ---

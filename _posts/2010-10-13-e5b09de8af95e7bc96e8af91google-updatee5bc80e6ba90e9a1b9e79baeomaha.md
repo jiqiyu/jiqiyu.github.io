@@ -8,7 +8,7 @@ slug: '%e5%b0%9d%e8%af%95%e7%bc%96%e8%af%91google-update%e5%bc%80%e6%ba%90%e9%a1
 title: 尝试编译google update开源项目:omaha
 wordpress_id: 578
 categories:
-- Digital Life
+- 杂
 tags:
 - omaha
 ---

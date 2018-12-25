@@ -8,7 +8,7 @@ slug: always-forget-but-sometimes-useful-ssh-tip
 title: Always Forget but Sometimes Useful - SSH Tip
 wordpress_id: 527
 categories:
-- Digital Life
+- 杂
 tags:
 - SSH
 - tips

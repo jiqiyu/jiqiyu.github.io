@@ -8,7 +8,7 @@ slug: an-average-summerday-rage
 title: An average summerday rage
 wordpress_id: 843
 categories:
-- For Fun and Pleasure
+- 杂
 tags:
 - RageComics
 ---

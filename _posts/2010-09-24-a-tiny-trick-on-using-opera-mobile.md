@@ -8,9 +8,9 @@ slug: a-tiny-trick-on-using-opera-mobile
 title: A Tiny Trick on Using Opera Mobile
 wordpress_id: 541
 categories:
-- Digital Life
+- 杂
 tags:
-- 5530
+- '5530'
 - opera mobile
 ---
 

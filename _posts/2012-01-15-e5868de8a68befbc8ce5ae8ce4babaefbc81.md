@@ -8,7 +8,7 @@ slug: '%e5%86%8d%e8%a6%8b%ef%bc%8c%e5%ae%8c%e4%ba%ba%ef%bc%81'
 title: 再見，完人！
 wordpress_id: 975
 categories:
-- 四不像或詩/ 歌
+- 四不像或詩歌
 tags:
 - 沒有標籤
 ---

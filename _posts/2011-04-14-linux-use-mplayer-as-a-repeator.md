@@ -8,7 +8,7 @@ slug: linux-use-mplayer-as-a-repeator
 title: '[linux] Use mplayer as a repeator'
 wordpress_id: 792
 categories:
-- Digital Life
+- 杂
 tags:
 - linux
 - mplayer

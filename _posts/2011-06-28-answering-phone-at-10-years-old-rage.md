@@ -8,7 +8,7 @@ slug: answering-phone-at-10-years-old-rage
 title: Answering phone at 10 years old rage
 wordpress_id: 856
 categories:
-- For Fun and Pleasure
+- 杂
 tags:
 - RageComics
 ---

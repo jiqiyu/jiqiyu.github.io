@@ -8,7 +8,7 @@ slug: centos%e4%b8%8byum%e5%ae%89%e8%a3%85%e9%85%8d%e7%bd%aesamba
 title: centOS下yum安装配置samba
 wordpress_id: 1101
 categories:
-- Digital Life
+- 杂
 tags:
 - samba
 - yum

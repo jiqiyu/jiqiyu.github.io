@@ -8,7 +8,7 @@ slug: error-while-loading-shared-libraries-libmysqlclient-so-16
 title: 'error while loading shared libraries: libmysqlclient.so.16'
 wordpress_id: 1103
 categories:
-- Digital Life
+- 杂
 tags:
 - 沒有標籤
 ---

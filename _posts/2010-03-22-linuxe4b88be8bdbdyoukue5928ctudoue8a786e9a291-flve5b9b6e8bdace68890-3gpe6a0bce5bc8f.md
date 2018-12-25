@@ -8,7 +8,7 @@ slug: linux%e4%b8%8b%e8%bd%bdyouku%e5%92%8ctudou%e8%a7%86%e9%a2%91-flv%e5%b9%b6%
 title: '[linux]下载youku和tudou视频(.flv)并转成.3gp格式'
 wordpress_id: 303
 categories:
-- Digital Life
+- 杂
 tags:
 - 3gp
 - flv
