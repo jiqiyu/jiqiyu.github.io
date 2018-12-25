@@ -6,7 +6,7 @@ layout: default
 
 <p>
     {% for category in site.categories %}
-    <a href="/tag/{{ category[0] }}">
+    <a href="/category/{{ category[0] }}">
         {{ category[0] }} |
     </a>
     <br>
