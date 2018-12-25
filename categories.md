@@ -7,7 +7,7 @@ layout: default
 <p>
     {% for category in site.categories %}
     <a href="/category/{{ category[0] }}">
-        {{ category[0] }} |
+        {{ category[0] }}
     </a>
     <br>
     {% endfor %}
