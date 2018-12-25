@@ -10,7 +10,7 @@ wordpress_id: 541
 categories:
 - Digital Life
 tags:
-- '5530'
+- 5530
 - opera mobile
 ---
 
