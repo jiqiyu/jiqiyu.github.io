@@ -30,7 +30,7 @@ for filename in filenames:
                 crawl = True
             elif current_tags[0] == '-':
                 if crawl:
-                    total_tags.extend(current_tags[1:])
+                    total_tags.append(' '.join(current_tags[1:]))
             else:
                 crawl = False
     f.close()

@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: human"
-tag: human
+title: "Tag: the Bible"
+tag: the Bible
 robots: noindex
 ---
