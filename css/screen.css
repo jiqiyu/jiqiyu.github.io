@@ -200,3 +200,10 @@ ul.posts {
   #related h2 {
     margin-bottom: 1em;
   }
+
+hr {
+  color: #efefef;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  height: 1px;
+}
