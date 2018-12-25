@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <h2>TAGS</h2>
 {% capture temptags %}
   {% for tag in site.tags %}
