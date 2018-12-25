@@ -9,8 +9,6 @@ title: 再見，完人！
 wordpress_id: 975
 categories:
 - 四不像或詩歌
-tags:
-- 沒有標籤
 ---
 
 一段情，無疾而終了

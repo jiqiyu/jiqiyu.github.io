@@ -9,8 +9,6 @@ title: A node.js blog
 wordpress_id: 1502
 categories:
 - 杂
-tags:
-- 沒有標籤
 ---
 
 [https://github.com/jiqiyu/a-nodejs-blog](https://github.com/jiqiyu/a-nodejs-blog)

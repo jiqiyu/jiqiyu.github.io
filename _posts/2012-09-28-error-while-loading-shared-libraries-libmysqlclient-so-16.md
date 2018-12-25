@@ -9,8 +9,6 @@ title: 'error while loading shared libraries: libmysqlclient.so.16'
 wordpress_id: 1103
 categories:
 - 杂
-tags:
-- 沒有標籤
 ---
 
 error while loading shared libraries: libmysqlclient.so.16

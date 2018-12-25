@@ -9,8 +9,6 @@ title: 不去网站，windows如何在本机查whois？
 wordpress_id: 331
 categories:
 - 杂
-tags:
-- 沒有標籤
 ---
 
 #!-*- coding: cp936 -*-"
