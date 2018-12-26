@@ -207,3 +207,7 @@ hr {
   margin-bottom: 10px;
   height: 1px;
 }
+
+p {
+  white-space: pre-line;
+}
