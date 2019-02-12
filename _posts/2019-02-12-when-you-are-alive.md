@@ -16,7 +16,8 @@ You can feel I wanna die this sec and the next
 You can feel you may want to live
 Your mind constantly changes because you are alive
 You're free
-You're not restrained from anything except that The only restrictions are that you have to eat and you have to sleep
+You're not restrained from anything except that
+The only restrictions are that you have to eat and you have to sleep
 You can always make something delicious for yourself
 And you can relax and close your eyes when you sleep
 And you can open your eyes again when you're awake
