@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h2>CATEGORIES</h2>
+<h2>CATEGORIES.</h2>
 
 <p>
     {% for category in site.categories %}
@@ -12,5 +12,3 @@ layout: default
     <br>
     {% endfor %}
 </p>
-
-
