@@ -6,8 +6,8 @@ layout: default
 <p>
     {% assign filtered_cats = site.categories | where: '四不像或詩', nil %}
     {% for category in filtered_cats %}
-    <a href="/category/{{ category }}">
-        {{ category }}
+    <a href="/category/{{ category[0] }}">
+        {{ category[0] }}
     </a>
     <br>
     {% endfor %}
